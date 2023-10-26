@@ -1,15 +1,15 @@
 h1 {
-  color: red;
+  color: rgb(255, 0, 0);
   font-size: large;
   background-color: blue;
 }
 
 button {
   color: darkviolet;
-  background-color: tan;
+  background-color: #d2b48c;
 }
 
 p {
   color: white;
-  background-color: gray;
+  background-color: rgba(112, 128, 143, 0.726);
 }
