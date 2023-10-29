@@ -1,0 +1,29 @@
+div {
+  width: 300px;
+  padding: 50px;
+  margin: 20px;
+}
+
+div {
+  /* border-style: dotted; */
+  border-top-style: double;
+  border-right-style: groove;
+  border-bottom-style: ridge;
+  border-left-style: inset;
+  border-width: 5px 10px 15px 20px;
+  border-top-width: 10px;
+  border-bottom-width: 10px;
+  border-color: aqua;
+}
+
+div{
+    /* padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px; */
+    padding: 10px 40px;
+}
+
+div{
+    margin: 40px 20px;
+}
